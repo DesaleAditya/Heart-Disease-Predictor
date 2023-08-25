@@ -1,9 +1,4 @@
-# Heart-Disease-Predictor
-Certainly, here's a concise description of your project in under 300 words:
-
----
-
-## Heart Disease Predictor Project 🩺❤️
+## Heart Disease Predictor
 
 Welcome to the Heart Disease Predictor project! 🩺❤️ This endeavor combines Machine Learning, Python, SQL, and Flask to create a predictive tool for assessing heart disease risks and promoting early precautions.
 
